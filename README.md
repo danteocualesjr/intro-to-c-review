@@ -1,11 +1,11 @@
 # intro-to-c-review
 
-[ ] compile and run a C program
-[ ] write some C code from scratch
+* [x] compile and run a C program
+* [ ] write some C code from scratch
 
-* ## Write a C program to check if two numbers in a pair is in ascending order or descending order.
+* ### Write a C program to check if two numbers in a pair is in ascending order or descending order.
 
-* ##  Write a C program to read a password until it is correct. For wrong password print "Incorrect password" and for correct password print "Correct password" and quit the program. The correct password is 1234.
+* ###  Write a C program to read a password until it is correct. For wrong password print "Incorrect password" and for correct password print "Correct password" and quit the program. The correct password is 1234.
 Test Data :
 Input the password: 1234 
 Expected Output:
